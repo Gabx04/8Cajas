@@ -1,0 +1,19 @@
+div {
+	height: 100px;
+	width: 100px;
+	background-color: #a99c89;
+	border: 1px solid black;
+	margin: 5px;
+	color: red;
+}
+#bigbox {
+	width: 350px;
+	height: 110px;
+	margin-top: 3px;
+	padding: 5px;
+}
+.small {
+	display: inline-block;
+
+}
+
